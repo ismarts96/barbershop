@@ -1,0 +1,126 @@
+.header {
+  position: relative;
+  text-align: center;
+  display: inline-block;
+  width: 100%; }
+  .header__image {
+    width: 100%; }
+  .header__title {
+    position: absolute;
+    top: 25%;
+    left: 50%;
+    transform: translate(-50%, -50%); }
+  .header__title--xx-large {
+    font-family: "Playfair Display", serif;
+    font-size: 4.375rem;
+    font-weight: 900;
+    color: #fff;
+    font-style: italic; }
+  .header__icon {
+    position: absolute;
+    color: #fff;
+    padding-top: 70%; }
+
+.bg-eerieblack {
+  background-color: #121619;
+  color: #fff;
+  text-decoration: none; }
+
+.nav__link {
+  color: #fff;
+  padding-left: 1.5rem; }
+
+.navbar__logo {
+  width: 100px; }
+
+span {
+  color: #e56353; }
+
+.article {
+  text-align: left;
+  padding-top: 3.125rem;
+  margin-bottom: 3.125rem; }
+
+.article__title {
+  font-size: 1rem;
+  font-weight: 300;
+  font-family: "Playfair Display", serif;
+  color: #222323;
+  padding-bottom: 5%; }
+
+.article__paragraph {
+  font-size: 1rem;
+  font-weight: 300;
+  color: #222323;
+  font-family: "Roboto", sans-serif;
+  padding-bottom: 5%;
+  line-height: 2.5rem; }
+
+.article__button {
+  font-family: "Roboto", sans-serif;
+  color: #fff;
+  font-size: 1rem; }
+
+.article__button--radius {
+  border-radius: 40px; }
+
+span {
+  color: #e56353; }
+
+.comment {
+  text-align: center;
+  padding-top: 4rem;
+  padding-bottom: 4rem; }
+
+.comment__foto {
+  border-radius: 50%;
+  width: 70%; }
+
+.comment__data {
+  text-align: left;
+  padding-top: 2rem; }
+
+.comment__name {
+  font-family: "Playfair Display", serif;
+  font-size: 1.875rem;
+  color: #121619;
+  font-style: italic;
+  font-weight: 900; }
+
+.comment__twitter {
+  font-family: "Roboto", sans-serif;
+  font-size: 1.125rem;
+  font-weight: 300;
+  color: #e56353; }
+
+.comment__page {
+  font-family: "Roboto", sans-serif;
+  font-size: 1.125rem;
+  font-weight: 300;
+  color: #e56353; }
+
+.comment__paragraph {
+  font-family: "Roboto", sans-serif;
+  font-size: 1rem;
+  font-weight: 300;
+  color: #222323;
+  line-height: 2.5rem;
+  text-align: left;
+  padding-top: 1rem; }
+
+.pages-counter {
+  background-color: #e6e7e7;
+  padding: 4rem; }
+
+.pages-counter__border {
+  border-radius: 40%; }
+
+.footer {
+  background-color: #121619;
+  padding: 4rem;
+  text-align: center; }
+
+.footer__logo {
+  height: 50px; }
+
+/*# sourceMappingURL=style.css.map */

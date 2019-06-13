@@ -1,0 +1,35 @@
+.article{
+  text-align: left;
+  padding-top: 3.125rem;
+  margin-bottom: 3.125rem;
+}
+.article__title{
+  font-size: $medium;
+  font-weight: $light;
+  font-family: $playfair;
+  color: $raisinblack;
+  padding-bottom: 5%;
+}
+
+.article__paragraph{
+  font-size: $medium;
+  font-weight: $light;
+  color: $raisinblack;
+  font-family: $roboto;
+  padding-bottom: 5%;
+  line-height: 2.5rem;
+}
+
+.article__button{
+  font-family: $roboto;
+  color: $white;
+  font-size: $medium;
+}
+
+.article__button--radius{
+  border-radius: 40px;
+}
+
+span{
+  color: $fuzzywuzzy;
+}

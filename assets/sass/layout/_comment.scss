@@ -1,0 +1,45 @@
+.comment {
+  text-align: center;
+  padding-top: 4rem;
+  padding-bottom: 4rem;
+}
+
+.comment__foto {
+  border-radius: 50%;
+  width: 70%;
+}
+
+.comment__data{
+  text-align: left;
+  padding-top: 2rem;
+}
+.comment__name {
+  font-family: $playfair;
+  font-size: $x-large;
+  color: $eerieblack;
+  font-style: italic;
+  font-weight: $blackitalic;
+}
+
+.comment__twitter{
+  font-family: $roboto;
+  font-size: $large;
+  font-weight: $light;
+  color: $fuzzywuzzy;
+
+}
+.comment__page{
+  font-family: $roboto;
+  font-size: $large;
+  font-weight: $light;
+  color: $fuzzywuzzy;
+}
+.comment__paragraph{
+  font-family: $roboto;
+  font-size: $medium;
+  font-weight: $light;
+  color: $raisinblack;
+  line-height: 2.5rem;
+  text-align: left;
+  padding-top: 1rem;
+}
